@@ -1,13 +1,13 @@
 Topsis-Package
-Link to my Tospis package on pypi.org- https://pypi.org/project/topsis-vivek-102203778/
+Link to my Tospis package on pypi.org- https://pypi.org/project/Topsis-Palak-102216032/
 
 I have developed a command line python program to implement the TOPSIS. TOPSIS (technique for order performance by similarity to ideal solution) is a useful technique in dealing with multi-attribute or multi-criteria decision making (MADM/MCDM) problems in the real world
 
 Installation
-pip install Topsis-Vivek-102203778
+pip install Topsis-Palak-102216032
 
-Submitted by: Vivek Arora
+Submitted by: Palak Mahajan
 
-102203778
+102216032
 
-3C42
+3Q33
